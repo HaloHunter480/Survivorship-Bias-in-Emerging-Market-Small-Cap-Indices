@@ -23,7 +23,7 @@ This repository contains the complete research project quantifying **survivorshi
 
 ## 📊 Core Finding (Visual)
 
-![Survivorship Bias Analysis](results/figures/COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png)
+![Survivorship Bias Analysis](figures/COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png)
 
 *Three-panel analysis showing: (1) Cumulative return divergence over 9 years, (2) Rolling Sharpe ratio comparison, (3) Survivorship churn timeline*
 
