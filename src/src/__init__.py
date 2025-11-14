@@ -1,2 +1,0 @@
-# Survivorship Bias Research Package
-
