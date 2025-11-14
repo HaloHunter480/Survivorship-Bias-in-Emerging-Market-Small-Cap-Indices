@@ -61,7 +61,7 @@ Survivorship-Bias-in-Emerging-Market-Small-Cap-Indices/
 │   ├── detailed_bias_analysis.txt
 │   └── research_report_20251111.txt
 │
-├── Research.pdf                        # Full academic paper
+├── Research.md                         # Full academic paper
 ├── Results_Explained.pdf               # Plain-language findings
 │
 ├── README.md
@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🔗 Links
 
-- 📄 **Research Paper**: [Research.pdf](Research.pdf)
+- 📄 **Research Paper**: [Research.md](Research.md)
 - 📊 **Results Visualization**: [View Figures](figures)
 - 📖 **Reproduction Guide**: [HOW_TO_REPRODUCE.md](HOW_TO_REPRODUCE.md)
 - 🎯 **Quick Start**: [QUICK_REFERENCE_CARD.md](QUICK_REFERENCE_CARD.md)
