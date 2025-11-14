@@ -32,43 +32,45 @@ This repository contains the complete research project quantifying **survivorshi
 ## 📁 Repository Structure
 
 ```
-survivorship-bias-india/
+Survivorship-Bias-in-Emerging-Market-Small-Cap-Indices/
 │
-├── 📄 RESEARCH_PAPER_FINAL.md          # Complete academic paper (SSRN-ready)
-├── 📊 results/
-│   ├── figures/                         # All visualizations
-│   │   ├── COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png
-│   │   ├── 6_smoking_gun_dead_stocks.png
-│   │   └── [5 additional figures]
-│   ├── reports/                         # Detailed analysis reports
-│   └── tables/                          # Statistical output
+├── core_scripts/                     # Main research scripts (runnable)
+│   ├── run_research_auto.py
+│   ├── infer_historical_constituents.py
+│   ├── analyze_survivorship_bias.py
+│   ├── create_key_visualization.py
+│   ├── validate_worst_performers.py
+│   └── spot_check_classification.py
 │
-├── 🐍 Core Analysis Scripts
-│   ├── run_research_auto.py            # Main research pipeline (run this!)
-│   ├── infer_historical_constituents.py # Index reconstruction algorithm
-│   ├── analyze_survivorship_bias.py     # Bias quantification
-│   └── create_key_visualization.py      # Generate figures
+├── src/                               # Modular source code (library-style)
+│   ├── analysis/
+│   ├── backtesting/
+│   ├── data_collection/
+│   └── visualization/
 │
-├── 📚 src/                              # Modular source code
-│   ├── data_collection/                 # Bhavcopy processing, price fetching
-│   ├── backtesting/                     # Portfolio construction, returns
-│   ├── analysis/                        # Statistical tests
-│   └── visualization/                   # Plotting utilities
+├── figures/                           # All generated PNG visualizations
+│   ├── 1_stock_timeline.png
+│   ├── 2_returns_comparison.png
+│   ├── 3_metrics_comparison.png
+│   ├── 4_delisting_analysis.png
+│   ├── 5_removal_categories.png
+│   ├── 6_smoking_gun_dead_stocks.png
+│   └── COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png
 │
-├── 📖 Documentation
-│   ├── HOW_TO_REPRODUCE.md             # Step-by-step reproduction guide
-│   ├── METHODOLOGY_DEEP_DIVE.md        # Technical methodology explanation
-│   ├── RESULTS_EXPLAINED.md            # Plain-language results
-│   └── QUICK_REFERENCE_CARD.md         # One-page summary
+├── reports/                           # Text analysis outputs
+│   ├── detailed_bias_analysis.txt
+│   └── research_report_20251111.txt
 │
-└── 🗂️ data/
-    ├── constituents/                    # Historical index membership
-    ├── processed/                       # Clean datasets for analysis
-    └── raw/                            # Original bhavcopies (not in repo*)
-
-*Raw data excluded due to size (3.8M records). See HOW_TO_REPRODUCE.md for download instructions.
-```
-
+├── Research.pdf                        # Full academic paper
+├── Results_Explained.pdf               # Plain-language findings
+│
+├── README.md
+├── LICENSE.md
+├── Requirements.txt
+├── QUICK_REFERENCE_CARD.md
+├── METHODOLOGY_DEEP_DIVE.md
+├── HOW_TO_REPRODUCE.md
+└── CONTRIBUTING.md
 ---
 
 ## 🚀 Quick Start
