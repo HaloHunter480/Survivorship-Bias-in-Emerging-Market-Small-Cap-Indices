@@ -223,7 +223,7 @@ This project demonstrates:
 | **CODE_LOCATION_GUIDE.md** | Algorithm line-by-line mapping | 5 min |
 | **PAPER_SUMMARY.md** | Interview talking points | 5 min |
 
-**Start Here**: Read `QUICK_REFERENCE_CARD.md` → `Results_explained.pdf` → `Research.pdf`
+**Start Here**: Read `QUICK_REFERENCE_CARD.md` → `RESULTS_EXPLAINED.md` → `Research.md`
 
 ---
 
