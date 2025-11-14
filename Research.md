@@ -477,7 +477,7 @@ Critically, only 19.6% of removed stocks are genuinely "dead" (delisted). The ma
 
 **Figure 2: Composition of Removed Stocks**
 
-![Removal Categories](results/figures/5_removal_categories.png)
+![Removal Categories](figures/5_removal_categories.png)
 
 *Source: Analysis of 1,437 stocks in NIFTY Smallcap 250 universe (2016-2025). Figure shows breakdown of 1,185 removed stocks by category and their contribution to survivorship bias.*
 
@@ -511,7 +511,7 @@ These biases are **economically large**. To contextualize: the difference betwee
 
 **Figure 3: Comprehensive Survivorship Bias Analysis**
 
-![Comprehensive Analysis](results/figures/COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png)
+![Comprehensive Analysis](figures/COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png)
 
 *Panel 1 (top): Cumulative return divergence between survivor-only and complete portfolios over 9 years. Panel 2 (middle): Rolling 252-day Sharpe ratio comparison showing persistent outperformance by survivor portfolio. Panel 3 (bottom): Survivorship churn showing gradual attrition of stocks from the index over time.*
 
@@ -567,7 +567,7 @@ To concretely illustrate survivorship bias, Table 5 presents the ten worst-perfo
 
 **Figure 4: The Smoking Gun - Dead Stock Performance**
 
-![Dead Stocks Analysis](results/figures/6_smoking_gun_dead_stocks.png)
+![Dead Stocks Analysis](figures/6_smoking_gun_dead_stocks.png)
 
 *Four-panel analysis of the worst-performing dead stocks. Top-left: Return distribution showing left tail of catastrophic losses. Top-right: Individual stock returns for worst 10 performers. Bottom-left: Years of inactivity (8+ years dead). Bottom-right: Price trajectory of STOREONE, the worst performer (-35.36% before delisting).*
 
