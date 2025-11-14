@@ -71,6 +71,7 @@ Survivorship-Bias-in-Emerging-Market-Small-Cap-Indices/
 ├── METHODOLOGY_DEEP_DIVE.md
 ├── HOW_TO_REPRODUCE.md
 └── CONTRIBUTING.md
+```
 ---
 
 ## 🚀 Quick Start
