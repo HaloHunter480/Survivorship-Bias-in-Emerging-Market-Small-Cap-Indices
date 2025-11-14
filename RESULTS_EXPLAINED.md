@@ -144,24 +144,24 @@ overestimates strategy performance in emerging market small caps.
 
 ## 📊 VISUALIZATIONS CREATED
 
-### **1. Stock Timeline** (`1_stock_timeline.png`)
+### **1. Stock Timeline** ![stock_timeline](figures/1_stock_timeline.png)
 - Shows cumulative stock entry into index over time
 - Highlights 252 survivors vs 1,185 removed
 - Visual proof of 82.5% removal rate
 
-### **2. Returns Comparison** (`2_returns_comparison.png`)
+### **2. Returns Comparison** ![returns_comparison](figures/2_returns_comparison.png)
 - Distribution of returns: survivor vs complete
 - Cumulative performance over time
 - Rolling Sharpe ratio comparison
 - Bias evolution timeline
 
-### **3. Metrics Comparison** (`3_metrics_comparison.png`)
+### **3. Metrics Comparison** ![metric_comparison](figure/3_metrics_comparison.png)
 - Side-by-side bar charts
 - Annual return comparison
 - Sharpe ratio comparison
 - Direct bias visualization
 
-### **4. ![Delisting Analysis](figures/4_delisting_analysis.png)
+### **4. Delisting Analysis** ![Delisting Analysis](figures/4_delisting_analysis.png)
 - Active vs delisted stocks
 - Distribution of days since last trade
 - Removal timeline by year
