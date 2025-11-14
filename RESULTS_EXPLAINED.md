@@ -155,7 +155,7 @@ overestimates strategy performance in emerging market small caps.
 - Rolling Sharpe ratio comparison
 - Bias evolution timeline
 
-### **3. Metrics Comparison** ![metrics_comparison](figure/3_metrics_comparison.png)
+### **3. Metrics Comparison** ![metrics_comparison](figures/3_metrics_comparison.png)
 - Side-by-side bar charts
 - Annual return comparison
 - Sharpe ratio comparison
