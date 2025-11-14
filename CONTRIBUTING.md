@@ -10,7 +10,7 @@ Thank you for your interest in this research project! While this is primarily an
 
 Found a bug or error in the analysis?
 
-- **Check**: [Existing Issues](https://github.com/HaloHubter480/survivorship-bias-india/issues)
+- **Check**: [Existing Issues](https://github.com/HaloHunter480/survivorship-bias-india/issues)
 - **Create**: New issue with:
   - Clear title describing the problem
   - Steps to reproduce
@@ -261,7 +261,7 @@ Use `df.dropna()` before Sharpe calculation, or implement forward-fill logic.
 
 - **Research Questions**: Open an issue with "Question" label
 - **Technical Help**: See [HOW_TO_REPRODUCE.md](HOW_TO_REPRODUCE.md) first
-- **Collaboration**: Email [your.email@example.com]
+- **Collaboration**: Email->harjot.quant@gmail.com
 
 ---
 
@@ -297,7 +297,7 @@ Violations may result in:
 2. Temporary ban from repository
 3. Permanent ban for severe/repeated violations
 
-Report violations to: [your.email@example.com]
+Report violations to: harjot.quant@gmail.com
 
 ---
 
