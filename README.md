@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- 📄 **Research Paper**: [RESEARCH_PAPER_FINAL.md](RESEARCH_PAPER_FINAL.md)
+- 📄 **Research Paper**: [Research.pdf](Research.pdf)
 - 📊 **Results Visualization**: [View Figures](results/figures/)
 - 📖 **Reproduction Guide**: [HOW_TO_REPRODUCE.md](HOW_TO_REPRODUCE.md)
 - 🎯 **Quick Start**: [QUICK_START.md](QUICK_START.md)
