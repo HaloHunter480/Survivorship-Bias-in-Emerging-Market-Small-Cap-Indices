@@ -305,7 +305,7 @@ All tests confirm economically large and statistically significant bias.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
@@ -320,9 +320,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - 📄 **Research Paper**: [Research.pdf](Research.pdf)
-- 📊 **Results Visualization**: [View Figures](results/figures/)
-- 📖 **Reproduction Guide**: [HOW_TO_REPRODUCE.md](HOW_TO_REPRODUCE.md)
-- 🎯 **Quick Start**: [QUICK_START.md](QUICK_START.md)
+- 📊 **Results Visualization**: [View Figures](figures)
+- 📖 **Reproduction Guide**: [How_to_Reproduce.md](How_to_Reproduce.md)
+- 🎯 **Quick Start**: [QUICK_REFERENCE_CARD.md](QUICK_REFERENCE_CARD.md)
 
 ---
 
