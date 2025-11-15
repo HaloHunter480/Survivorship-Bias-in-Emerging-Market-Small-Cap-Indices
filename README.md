@@ -60,11 +60,6 @@ survivorship-bias-india/
 │   ├── METHODOLOGY_DEEP_DIVE.md        # Technical methodology explanation
 │   ├── RESULTS_EXPLAINED.md            # Plain-language results
 │   └── QUICK_REFERENCE_CARD.md         # One-page summary
-│
-└── 🗂️ data/
-    ├── constituents/                    # Historical index membership
-    ├── processed/                       # Clean datasets for analysis
-    └── raw/                            # Original bhavcopies (not in repo*)
 
 *Raw data excluded due to size (3.8M records). See HOW_TO_REPRODUCE.md for download instructions.
 ```
