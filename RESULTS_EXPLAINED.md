@@ -144,24 +144,24 @@ overestimates strategy performance in emerging market small caps.
 
 ## 📊 VISUALIZATIONS CREATED
 
-### **1. Stock Timeline** ![stock_timeline](figures/1_stock_timeline.png)
+### **1. Stock Timeline** (`1_stock_timeline.png`)
 - Shows cumulative stock entry into index over time
 - Highlights 252 survivors vs 1,185 removed
 - Visual proof of 82.5% removal rate
 
-### **2. Returns Comparison** ![returns_comparison](figures/2_returns_comparison.png)
+### **2. Returns Comparison** (`2_returns_comparison.png`)
 - Distribution of returns: survivor vs complete
 - Cumulative performance over time
 - Rolling Sharpe ratio comparison
 - Bias evolution timeline
 
-### **3. Metrics Comparison** ![metrics_comparison](figures/3_metrics_comparison.png)
+### **3. Metrics Comparison** (`3_metrics_comparison.png`)
 - Side-by-side bar charts
 - Annual return comparison
 - Sharpe ratio comparison
 - Direct bias visualization
 
-### **4. Delisting Analysis** ![Delisting Analysis](figures/4_delisting_analysis.png)
+### **4. Delisting Analysis** (`4_delisting_analysis.png`)
 - Active vs delisted stocks
 - Distribution of days since last trade
 - Removal timeline by year
@@ -205,3 +205,44 @@ Your **9.1% Sharpe inflation** and **23.2% return inflation** are:
 - ✅ Economically meaningful
 - ✅ Academically publishable
 - ✅ Practically important
+
+---
+
+## 💡 KEY TAKEAWAYS FOR YOUR MS APPLICATION
+
+### What You Discovered:
+
+1. **82.5% of stocks** that were ever in NIFTY Smallcap 250 are no longer in it
+   - This is YOUR data, YOUR finding!
+
+2. **Sharpe ratio inflated by 9.1%** when using only survivors
+   - Clear, quantified bias
+
+3. **Returns inflated by 23.2%** (4.93% per year)
+   - Massive practical impact
+
+4. **Complete 9-year dataset** with 3.8M trading records
+   - Rigorous, comprehensive analysis
+
+### What This Proves:
+
+✅ Survivorship bias exists and is measurable  
+✅ It's substantial in emerging market small caps  
+✅ Testing strategies without accounting for it leads to false conclusions  
+✅ Your methodology successfully quantifies the problem  
+
+### For Your Statement of Purpose:
+
+> "My independent research on survivorship bias in India's NIFTY Smallcap 250 
+> index demonstrates that 82.5% of index constituents were removed over a 
+> 9-year period. By reconstructing the complete historical universe and 
+> comparing performance of survivor-only versus complete datasets, I quantified 
+> that typical backtesting approaches inflate Sharpe ratios by 9.1% and annual 
+> returns by 23.2%. This work, using 3.8 million trading records from NSE 
+> bhavcopies, provides empirical evidence for the magnitude of survivorship 
+> bias in emerging markets and has direct implications for quantitative 
+> strategy evaluation."
+
+---
+
+
