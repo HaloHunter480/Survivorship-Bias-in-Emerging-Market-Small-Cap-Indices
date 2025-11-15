@@ -1,3 +1,9 @@
+# How to Reproduce This Research
+
+This guide provides step-by-step instructions to **fully reproduce** the survivorship bias analysis, from raw data to final figures.
+
+---
+
 ## ⏱️ Time Estimate
 
 - **Quick Verification** (using provided processed data): **5 minutes**
@@ -72,8 +78,8 @@ open results/reports/detailed_bias_analysis.txt
 ✓ Loaded 1,437 stocks from historical constituents
 ✓ Survivor portfolio: 252 stocks
 ✓ Complete portfolio: 1,437 stocks
-✓ Survivorship bias: +4.94pp annual return
-✓ Sharpe bias: +0.25 points
+✓ Survivorship bias: +4.93pp annual return
+✓ Sharpe bias: +0.097 points
 ✓ Figures saved to results/figures/
 ```
 
@@ -247,8 +253,8 @@ After running the analysis, verify these key numbers:
 | Removal rate | 82.5% | `detailed_bias_analysis.txt` |
 | Survivor annual return | 26.17% | `detailed_bias_analysis.txt` |
 | Complete annual return | 21.23% | `detailed_bias_analysis.txt` |
-| **Survivorship bias** | **+4.94pp** | `detailed_bias_analysis.txt` |
-| Sharpe bias | +0.25 | `detailed_bias_analysis.txt` |
+| **Survivorship bias** | **+4.93pp** | `detailed_bias_analysis.txt` |
+| Sharpe bias | +0.097 | `detailed_bias_analysis.txt` |
 | Dead stocks | 232 | `dead_stocks_list.csv` |
 | Reconstruction accuracy | 100% (252/252) | Run `spot_check_classification.py` |
 
@@ -336,7 +342,7 @@ results/
 ### Key Figure Preview
 
 **COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png** should show:
-- **Panel 1**: Cumulative returns diverging from ~0% to 244pp over 9 years
+- **Panel 1**: Cumulative returns diverging from ~0% to 284pp over 9 years
 - **Panel 2**: Rolling Sharpe ratio consistently higher for survivor portfolio
 - **Panel 3**: Stock count declining from ~1,200 to 252 over time
 
@@ -349,7 +355,7 @@ If you encounter issues:
 1. **Check**: [Troubleshooting](#-troubleshooting) section above
 2. **Read**: Detailed comments in each script
 3. **Review**: `INDEX_OF_DOCUMENTATION.md` for specific topics
-4. **Open Issue**: [GitHub Issues](https://github.com/HaloHunter480/survivorship-bias-india/issues)
+4. **Open Issue**: [GitHub Issues](https://github.com/yourusername/survivorship-bias-india/issues)
 
 ---
 
@@ -381,3 +387,4 @@ For academic journals requiring data availability:
 **Last Updated**: November 2025  
 **Research Version**: 1.0  
 **Python Version**: 3.8+
+
