@@ -1,0 +1,95 @@
+================================================================================
+DETAILED SURVIVORSHIP BIAS ANALYSIS
+NIFTY Smallcap 250 Index (2016-2025)
+================================================================================
+
+Analysis Date: 2025-11-15 23:49:49
+
+DATA SUMMARY
+--------------------------------------------------------------------------------
+Date Range:                2016-01-01 00:00:00 to 2025-09-30 00:00:00
+Total Price Records:       3,851,244
+Total Unique Stocks:       3,154
+Index Universe Stocks:     1,437
+Trading Days:              2,284
+
+SURVIVORSHIP ANALYSIS
+--------------------------------------------------------------------------------
+Current Survivors:         252 (17.5%)
+Removed from Index:        1,185 (82.5%)
+Removal Rate:              82.5%
+
+DELISTING ANALYSIS
+--------------------------------------------------------------------------------
+Active Stocks:             2,445 (77.5%)
+Delisted Stocks:           709 (22.5%)
+Delisting Rate:            22.5%
+
+PERFORMANCE COMPARISON
+================================================================================
+
+SURVIVOR-ONLY DATASET (252 stocks):
+--------------------------------------------------------------------------------
+Annual Return:             26.17%
+Annual Volatility:         22.55%
+Sharpe Ratio:              1.1602
+
+COMPLETE DATASET (1,437 stocks including removed):
+--------------------------------------------------------------------------------
+Annual Return:             21.23%
+Annual Volatility:         19.97%
+Sharpe Ratio:              1.0632
+
+SURVIVORSHIP BIAS (THE KEY FINDING)
+================================================================================
+Sharpe Ratio Inflation:    +0.0969 (+9.1%)
+Return Inflation:          +4.93% per year
+Return Bias Percentage:    +23.2%
+
+INTERPRETATION
+--------------------------------------------------------------------------------
+Testing strategies ONLY on the 252 current survivors while ignoring
+the 1,185 stocks that were removed from the index results in:
+
+  • Sharpe ratio appears 9.1% HIGHER than reality
+  • Annual returns appear 23.2% HIGHER than reality
+  • Risk-adjusted performance is significantly OVERSTATED
+
+This demonstrates SEVERE survivorship bias in emerging market small caps!
+
+================================================================================
+METHODOLOGY
+================================================================================
+
+STRATEGIES COMPARED:
+--------------------------------------------------------------------------------
+Both datasets were analyzed using simple equal-weight portfolios:
+
+1. SURVIVOR-ONLY PORTFOLIO:
+   - Portfolio of ONLY the 252 stocks currently in NIFTY Smallcap 250
+   - Equal weight allocation
+   - Rebalanced periodically
+   - This represents typical biased backtesting approach
+
+2. COMPLETE PORTFOLIO:
+   - Portfolio of ALL 1,437 stocks that were EVER in the index
+   - Includes 1,185 stocks that were subsequently removed
+   - Equal weight allocation
+   - Rebalanced periodically
+   - This represents unbiased, realistic performance
+
+DATA SOURCES:
+--------------------------------------------------------------------------------
+• Complete NSE bhavcopies (2016-2025)
+• Historical index reconstitution (market-cap based inference)
+• Current NIFTY Smallcap 250 constituents (verified)
+
+VALIDATION:
+--------------------------------------------------------------------------------
+• Historical reconstruction validated against current constituents
+• Cross-referenced with delisting database
+• Consistent with index methodology (market cap ranking)
+
+================================================================================
+END OF DETAILED REPORT
+================================================================================
