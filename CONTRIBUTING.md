@@ -10,7 +10,7 @@ Thank you for your interest in this research project! While this is primarily an
 
 Found a bug or error in the analysis?
 
-- **Check**: [Existing Issues](https://github.com/HaloHunter480/survivorship-bias-india/issues)
+- **Check**: [Existing Issues](https://github.com/yourusername/survivorship-bias-india/issues)
 - **Create**: New issue with:
   - Clear title describing the problem
   - Steps to reproduce
@@ -57,7 +57,7 @@ Documentation improvements are always welcome:
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/HaloHunter480/survivorship-bias-india.git
+git clone https://github.com/YOUR_USERNAME/survivorship-bias-india.git
 cd survivorship-bias-india
 
 # 3. Create a branch
@@ -134,7 +134,7 @@ Before submitting:
 
 2. **Check Key Metrics**:
    ```bash
-   # Verify survivorship bias is still ~4.94pp
+   # Verify survivorship bias is still ~4.93pp
    grep "Survivorship bias" results/reports/detailed_bias_analysis.txt
    ```
 
@@ -261,7 +261,8 @@ Use `df.dropna()` before Sharpe calculation, or implement forward-fill logic.
 
 - **Research Questions**: Open an issue with "Question" label
 - **Technical Help**: See [HOW_TO_REPRODUCE.md](HOW_TO_REPRODUCE.md) first
-- **Collaboration**: Email->harjot.quant@gmail.com
+- **Collaboration**: Email harjot.quant@gmail.com
+
 
 ---
 
