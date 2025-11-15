@@ -254,12 +254,12 @@ Empirically, I validate this proxy by comparing reconstructed index membership t
 For each quarter-end date $t$ from March 31, 2016 to September 30, 2025 (39 quarters), I:
 
 **Step 1: Calculate Market Cap Proxy**
-For each stock $i$ trading on date $t$:
-$$\text{MktCapProxy}_{i,t} = \text{Close}_{i,t} \times \text{TotalQty}_{i,t}$$
+For each stock **i** trading on quarter end date **t**:
+MktCapProxy(i, t) = Close(i, t) × TotalQty(i, t)
 
 **Step 2: Rank Stocks**
-Rank all stocks by $\text{MktCapProxy}_{i,t}$ in descending order:
-$$\text{Rank}_{i,t} = \text{rank}(\text{MktCapProxy}_{i,t})$$
+Sort all stocks on that date by their **MktCapProxy** in descending order:
+Rank(i, t) = position of MktCapProxy(i, t) in the sorted list
 
 **Step 3: Apply Selection Rules**
 - Exclude ranks 1-150 (large + mid caps)
