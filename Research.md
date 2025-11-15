@@ -8,7 +8,9 @@
 **Evidence from India's NIFTY Smallcap 250**
 
 **Author**: Harjot Singh Ranse
+
 **Affiliation**: Cluster University of Jammu
+
 **Date**: November 2025
 
 **Keywords**: Survivorship Bias, Emerging Markets, Small-Cap Stocks, Index Rebalancing, Backtesting, NIFTY Smallcap 250
