@@ -974,16 +974,16 @@ For supplementary analysis and alternative visualizations not included in the ma
 - Detailed timeline showing when each of the 1,437 stocks entered and exited the index
 - Visualizes the 82.5% removal rate over time with individual stock tracking
 
-**Figure C2**: Returns Distribution Comparison (`2_returns_comparison.png`)
+**Figure C2**: Returns Distribution Comparison ![Returns Distribution Comparison](results/figures/2_returns_comparison.png)
 - Histogram comparing return distributions between survivor-only and complete portfolios
 - Shows the left tail of failures excluded from survivor analysis
 
-**Figure C3**: Performance Metrics Comparison (`3_metrics_comparison.png`)
+**Figure C3**: Performance Metrics Comparison ![Performance Metrics Comparison](results/figures/3_metrics_comparison.png)
 - Comprehensive bar chart comparison across all four metrics
 - Side-by-side visualization: Annual Return, Sharpe Ratio, Maximum Drawdown, Volatility
 - Includes statistical significance markers
-
-**Figure C4**: Delisting Patterns Analysis (`4_delisting_analysis.png`)
+  
+**Figure C4**: Delisting Patterns Analysis ![Delisting Patterns Analysis](results/figures/4_delisting_analysis.png)
 - Temporal pattern of delistings and removals (2016-2025)
 - Identifies crisis periods (e.g., COVID-19) with accelerated removals
 - Categorizes removals by type over time
