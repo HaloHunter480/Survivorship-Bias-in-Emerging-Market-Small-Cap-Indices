@@ -8,12 +8,14 @@
 **Evidence from India's NIFTY Smallcap 250**
 
 **Author**: Harjot Singh Ranse
+
 **Affiliation**: Cluster University of Jammu
+
 **Date**: November 2025
 
 **Keywords**: Survivorship Bias, Emerging Markets, Small-Cap Stocks, Index Rebalancing, Backtesting, NIFTY Smallcap 250
 
-**JEL Classification**: G11, G12, G14, G15
+**JEL Classification**: G11, G12, G14, G15, G23
 
 ---
 
@@ -968,7 +970,7 @@ PROCEDURE Calculate_Portfolio_Returns:
 
 For supplementary analysis and alternative visualizations not included in the main text:
 
-**Figure C1**: Stock Entry/Exit Timeline (`1_stock_timeline.png`)
+**Figure C1**: Stock Entry/Exit Timeline ![ Stock Entry/Exit Timeline](results/figures/1_stock_timeline.png)
 - Detailed timeline showing when each of the 1,437 stocks entered and exited the index
 - Visualizes the 82.5% removal rate over time with individual stock tracking
 
