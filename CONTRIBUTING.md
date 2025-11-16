@@ -179,7 +179,7 @@ Any contributed data should:
 
 If you're extending this research academically:
 
-1. **Citation**: Please cite this work (see [LICENSE](LICENSE))
+1. **Citation**: Please cite this work (see [LICENSE](LICENSE.md))
 2. **Collaboration**: Open to co-authorship for substantial extensions
 3. **Replication**: Share your replication package
 
