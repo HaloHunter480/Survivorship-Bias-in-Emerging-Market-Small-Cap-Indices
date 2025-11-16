@@ -68,8 +68,8 @@ python analyze_survivorship_bias.py
 python create_key_visualization.py
 
 # 4. Check outputs
-open results/figures/COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png
-open results/reports/detailed_bias_analysis.txt
+open (results/figures/COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png}
+open (results/reports/detailed_bias_analysis.txt)
 ```
 
 ### Expected Output
