@@ -10,7 +10,7 @@ Thank you for your interest in this research project! While this is primarily an
 
 Found a bug or error in the analysis?
 
-- **Check**: [Existing Issues](https://github.com/HaloHunter480/survivorship-bias-india/issues)
+- **Check**: [Existing Issues](https://github.com/HaloHunter480/Survivorship-Bias-in-Emerging-Market-Small-Cap-indices/issues)
 - **Create**: New issue with:
   - Clear title describing the problem
   - Steps to reproduce
