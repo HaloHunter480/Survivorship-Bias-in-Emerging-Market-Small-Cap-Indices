@@ -163,32 +163,6 @@ Even "graduated" winners create hindsight bias.
 
 ---
 
-## 💬 **INTERVIEW TALKING POINTS**
-
-### **"Tell me about your research"**
-
-*"I quantified survivorship bias in India's NIFTY Smallcap 250 index using 9 years of complete historical data. I reconstructed the index composition using market-cap ranking—validated at 85-90% accuracy—then compared equal-weight portfolios of survivors versus all historical constituents. I found that survivor-only backtesting overstates returns by 23.2% (4.93 percentage points), demonstrating significant bias in emerging market small-cap strategy evaluation."*
-
----
-
-### **"What's your key finding?"**
-
-*"Testing strategies only on current index survivors artificially inflates returns by 4.93 percentage points annually—a 23.2% overstatement. This happens because 82.5% of historical constituents have been removed, including bankruptcies (16%), graduations to large-cap (33%), and demotions (33%). All three categories create bias, even the 'winners,' because they're no longer in your investable small-cap universe."*
-
----
-
-### **"How is this different from existing research?"**
-
-*"Three ways: First, it's the first comprehensive study of NIFTY Smallcap 250 specifically. Second, I used complete bhavcopy data including delisted stocks—most researchers only have survivor data. Third, I categorized removal types (delisted vs graduated vs demoted), showing that even successful graduations create bias, which is a more nuanced finding than simply 'survivors vs failures.'"*
-
----
-
-### **"Why does this matter?"**
-
-*"Practically, it means systematic strategy research in Indian equities needs complete historical universes, not just current constituents. Academically, it demonstrates that survivorship bias is particularly severe in emerging markets (23.2% overstatement) compared to developed markets (typically 10-15%), supporting the hypothesis that emerging markets have higher churn and therefore stronger bias effects."*
-
----
-
 ## 📝 **ONE-SENTENCE SUMMARY**
 
 **"I demonstrated that survivorship bias in India's NIFTY Smallcap 250 inflates backtesting returns by 23.2%, using market-cap ranking to reconstruct 9 years of complete historical index composition and comparing equal-weight portfolios of survivors versus all 1,437 historical constituents."**
