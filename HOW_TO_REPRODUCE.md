@@ -253,7 +253,7 @@ After running the analysis, verify these key numbers:
 | Removal rate | 82.5% | `detailed_bias_analysis.txt` |
 | Survivor annual return | 26.17% | `detailed_bias_analysis.txt` |
 | Complete annual return | 21.23% | `detailed_bias_analysis.txt` |
-| **Survivorship bias** | **+4.93pp** | `detailed_bias_analysis.txt` |
+| **Survivorship bias** | **+4.94pp** | `detailed_bias_analysis.txt` |
 | Sharpe bias | +0.097 | `detailed_bias_analysis.txt` |
 | Dead stocks | 232 | `dead_stocks_list.csv` |
 | Reconstruction accuracy | 100% (252/252) | Run `spot_check_classification.py` |
