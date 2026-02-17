@@ -448,7 +448,7 @@ $$\text{Relative Bias} = \frac{\text{Bias}_{metric}}{\text{Complete}_{metric}} \
 
 The annualized return metric converts the total return over the 9.06-year period into a per-year equivalent. The Sharpe ratio measures risk-adjusted return—how much excess return is earned per unit of volatility. Maximum drawdown measures the worst peak-to-trough decline experienced by an investor. The survivorship bias calculation quantifies how much survivor-only analysis overstates performance, both in absolute terms (percentage points) and relative terms (percentage overstatement).
 
-### 3.6 Removed Stock Classification
+### 3.6 RESEARCH METHODOLOGY FRAMEWORK
 
 The research proceeds systematically through eight interconnected stages, each building upon previous to isolate and quantify survivorship bias.
 
