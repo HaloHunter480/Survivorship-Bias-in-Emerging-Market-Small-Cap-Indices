@@ -9,7 +9,7 @@
 
 | Metric | Survivor-Only | Complete Universe | Bias |
 |--------|--------------|-------------------|------|
-| **Annualized Return** | 26.17% | 21.23% | **+4.93pp** |
+| **Annualized Return** | 26.17% | 21.23% | **+4.94pp** |
 | **Sharpe Ratio** | 1.160 | 1.063 | **+0.097** |
 | **Cumulative (9 years)** | 754% | 470% | **+284pp** |
 
