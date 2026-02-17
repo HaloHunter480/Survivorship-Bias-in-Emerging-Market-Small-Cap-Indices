@@ -521,12 +521,18 @@ average (1,144 days ago vs. 0 days for survivors).
 **Stage 5: Performance Metric Calculation**
 
 Calculate for Both Portfolios:
-A. Annualized Return: R_annual = [(1 + R_cumulative)^(252/T)] – 1
-B. Sharpe Ratio: Sharpe = [(mean_daily_return - risk_free_rate) / daily_std_dev] × √252
-C. Maximum Drawdown: MaxDD = min_t[(cumulative_return_t) / (peak_return_t)] – 1
-D. Annualized Volatility: σ_annual = daily_std_dev × √252
-Results Stored: {R_annual, Sharpe, MaxDD, σ_annual} for both portfolios
-Output: Performance metrics for comparison
+
+**A. Annualized Return:** R_annual = [(1 + R_cumulative)^(252/T)] – 1
+
+**B. Sharpe Ratio:** Sharpe = [(mean_daily_return - risk_free_rate) / daily_std_dev] × √252
+
+**C. Maximum Drawdown:** MaxDD = min_t[(cumulative_return_t) / (peak_return_t)] – 1
+
+**D. Annualized Volatility:** σ_annual = daily_std_dev × √252
+
+**Results Stored:** {R_annual, Sharpe, MaxDD, σ_annual} for both portfolios
+
+**Output:** Performance metrics for comparison
 
 **Stage 6: Survivorship Bias Quantification & Measurement**
 
