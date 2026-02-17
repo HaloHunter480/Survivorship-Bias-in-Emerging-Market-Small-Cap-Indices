@@ -13,7 +13,7 @@
 | **Sharpe Ratio** | 1.160 | 1.063 | **+0.097** |
 | **Cumulative (9 years)** | 754% | 470% | **+284pp** |
 
-**Translation**: Testing only on current survivors overstates returns by **23.2%**!
+**Translation**: Testing only on current survivors overstates returns by **23.3%**!
 
 ---
 
