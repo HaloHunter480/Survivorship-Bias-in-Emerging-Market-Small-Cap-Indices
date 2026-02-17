@@ -10,7 +10,7 @@
 
 This repository contains the complete research project quantifying **survivorship bias** in India's NIFTY Smallcap 250 index. By reconstructing the complete historical investment universe—including 1,437 stocks (both active and delisted)—I demonstrate that:
 
-- **Survivor-only backtesting overstates returns by 23.2%** (4.93 percentage points annually)
+- **Survivor-only backtesting overstates returns by 23.3%** (4.94 percentage points annually)
 - **Sharpe ratios are inflated by 9.1%** (0.097 points)
 - **82.5% of stocks** that were ever in the index (2016-2025) have been removed
 - This bias substantially exceeds the 1-2% documented in U.S. markets
@@ -151,7 +151,7 @@ Bias = Performance(A) - Performance(B)
 
 | Metric | Survivor-Only | Complete Universe | Bias | % Overstatement |
 |--------|---------------|-------------------|------|-----------------|
-| **Annual Return** | 26.17% | 21.23% | **+4.93pp** | **+23.2%** |
+| **Annual Return** | 26.17% | 21.23% | **+4.94pp** | **+23.23%** |
 | **Sharpe Ratio** | 1.160 | 1.063 | **+0.097** | **+9.1%** |
 | **Max Drawdown** | -42.3% | -48.7% | +6.4pp | +13.1% |
 | **Cumulative Return (9yr)** | 754% | 470% | +284pp | **+60.4%** |
