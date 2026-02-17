@@ -1000,7 +1000,7 @@ PROCEDURE Calculate_Portfolio_Returns:
 
 For supplementary analysis and alternative visualizations not included in the main text:
 
-**Figure C1**: Stock Entry/Exit Timeline (`1_stock_timeline.png`)
+**Figure C1**: Stock Entry/Exit Timeline (results/figures/1_stock_timeline.png)
 - Detailed timeline showing when each of the 1,437 stocks entered and exited the index
 - Visualizes the 82.5% removal rate over time with individual stock tracking
 
