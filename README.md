@@ -6,7 +6,7 @@
 
 > **Evidence from India's NIFTY Smallcap 250 (2016-2025)**
 
-## 🎯 Executive Summary
+## Executive Summary
 
 This repository contains the complete research project quantifying **survivorship bias** in India's NIFTY Smallcap 250 index. By reconstructing the complete historical investment universe—including 1,437 stocks (both active and delisted)—I demonstrate that:
 
@@ -15,7 +15,7 @@ This repository contains the complete research project quantifying **survivorshi
 - **82.5% of stocks** that were ever in the index (2016-2025) have been removed
 - This bias substantially exceeds the 1-2% documented in U.S. markets
 
-### 🏆 Key Achievement
+### Key Achievement
 
 **100% reconstruction accuracy** using publicly available NSE bhavcopy data—substantially exceeding the 80-85% accuracy typical in published research.
 
@@ -29,13 +29,13 @@ This repository contains the complete research project quantifying **survivorshi
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 survivorship-bias-india/
 │
-├── 📄 RESEARCH_PAPER_FINAL.md          # Complete academic paper (SSRN-ready)
-├── 📊 results/
+├── RESEARCH_PAPER_FINAL.md              # Complete academic paper (SSRN-ready)
+├── results/
 │   ├── figures/                         # All visualizations
 │   │   ├── COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png
 │   │   ├── 6_smoking_gun_dead_stocks.png
@@ -43,19 +43,19 @@ survivorship-bias-india/
 │   ├── reports/                         # Detailed analysis reports
 │   └── tables/                          # Statistical output
 │
-├── 🐍 Core Analysis Scripts
-│   ├── run_research_auto.py            # Main research pipeline (run this!)
+├── Core Analysis Scripts
+│   ├── run_research_auto.py             # Main research pipeline (run this!)
 │   ├── infer_historical_constituents.py # Index reconstruction algorithm
 │   ├── analyze_survivorship_bias.py     # Bias quantification
 │   └── create_key_visualization.py      # Generate figures
 │
-├── 📚 src/                              # Modular source code
+├── src/                                 # Modular source code
 │   ├── data_collection/                 # Bhavcopy processing, price fetching
 │   ├── backtesting/                     # Portfolio construction, returns
 │   ├── analysis/                        # Statistical tests
 │   └── visualization/                   # Plotting utilities
 │
-├── 📖 Documentation
+├── Documentation
 │   ├── HOW_TO_REPRODUCE.md             # Step-by-step reproduction guide
 │   ├── METHODOLOGY_DEEP_DIVE.md        # Technical methodology explanation
 │   ├── RESULTS_EXPLAINED.md            # Plain-language results
@@ -66,7 +66,7 @@ survivorship-bias-india/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -109,7 +109,7 @@ cat results/reports/detailed_bias_analysis.txt
 
 ---
 
-## 🔬 Methodology Highlights
+## Methodology Highlights
 
 ### 1. Historical Index Reconstruction
 
@@ -147,7 +147,7 @@ Bias = Performance(A) - Performance(B)
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 | Metric | Survivor-Only | Complete Universe | Bias | % Overstatement |
 |--------|---------------|-------------------|------|-----------------|
@@ -170,7 +170,7 @@ Bias = Performance(A) - Performance(B)
 
 ---
 
-## 🎓 Academic Contribution
+## Academic Contribution
 
 This research:
 
@@ -188,7 +188,7 @@ Extends classic survivorship bias research (Brown et al. 1995, Elton et al. 1996
 
 ---
 
-## 🎯 For MS/MFE Admissions Committees
+## For MS/MFE Admissions Committees
 
 This project demonstrates:
 
@@ -203,7 +203,7 @@ This project demonstrates:
 
 ---
 
-## 📚 Documentation Index
+## Documentation Index
 
 | Document | Purpose | Read Time |
 |----------|---------|-----------|
@@ -219,7 +219,7 @@ This project demonstrates:
 
 ---
 
-## 🔍 Validation & Reproducibility
+## Validation & Reproducibility
 
 ### Spot-Check Validation (100% accuracy)
 
@@ -299,13 +299,13 @@ All tests confirm economically large and statistically significant bias.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Data Source**: NSE India (via Samco Securities bhavcopy archive)
 - **Index Methodology**: NSE India Index Methodology Documents
@@ -313,12 +313,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🔗 Links
+## Links
 
-- 📄 **Research Paper**: [RESEARCH_PAPER_FINAL.md](RESEARCH_PAPER_FINAL.md)
-- 📊 **Results Visualization**: [View Figures](results/figures/)
-- 📖 **Reproduction Guide**: [HOW_TO_REPRODUCE.md](HOW_TO_REPRODUCE.md)
-- 🎯 **Quick Start**: [QUICK_START.md](QUICK_START.md)
+- **Research Paper**: [RESEARCH_PAPER_FINAL.md](RESEARCH_PAPER_FINAL.md)
+- **Results Visualization**: [View Figures](results/figures/)
+- **Reproduction Guide**: [HOW_TO_REPRODUCE.md](HOW_TO_REPRODUCE.md)
+- **Quick Start**: [QUICK_START.md](QUICK_START.md)
 
 ---
 
