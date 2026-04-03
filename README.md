@@ -21,7 +21,7 @@ This repository contains the complete research project quantifying **survivorshi
 
 ---
 
-## 📊 Core Finding (Visual)
+## Core Finding (Visual)
 
 ![Survivorship Bias Analysis](results/figures/COMPREHENSIVE_SURVIVORSHIP_BIAS_ANALYSIS.png)
 
